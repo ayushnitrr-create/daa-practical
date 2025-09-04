@@ -1,4 +1,4 @@
-Sorted Orders by Amount (Descending):
+Sorted Orders by Amount (Ascending):
 OrderB 500
 OrderE 800
 OrderA 1200
