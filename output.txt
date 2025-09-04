@@ -1,6 +1,21 @@
-Sorted Orders by Amount (Ascending):
+Sorted Orders by Amount (Descending):
+OrderM 300
 OrderB 500
+OrderJ 600
 OrderE 800
+OrderQ 900
+OrderG 950
+OrderO 1100
 OrderA 1200
+OrderS 1300
 OrderD 1500
+OrderI 1750
+OrderL 1800
+OrderF 2100
+OrderR 2200
+OrderK 2500
+OrderN 2700
+OrderT 2900
 OrderC 3200
+OrderP 3600
+OrderH 4000

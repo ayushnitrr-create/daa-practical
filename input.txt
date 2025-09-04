@@ -1,6 +1,21 @@
-5
+20
 OrderA 1200
 OrderB 500
 OrderC 3200
 OrderD 1500
 OrderE 800
+OrderF 2100
+OrderG 950
+OrderH 4000
+OrderI 1750
+OrderJ 600
+OrderK 2500
+OrderL 1800
+OrderM 300
+OrderN 2700
+OrderO 1100
+OrderP 3600
+OrderQ 900
+OrderR 2200
+OrderS 1300
+OrderT 2900
